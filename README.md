@@ -26,8 +26,7 @@ Este proyecto está diseñado como un **juego sencillo pero escalable**, enfocad
   - Cordura
 - **Efectos psicológicos**
   - Visión borrosa
-  - Distorsión visual
-  - Pérdida de control si el jugador descuida sus necesidades
+  - Sonidos falsos (alucinaciones)
 - **Múltiples puertas**
   - Solo una lleva a la salida
 - **Entidades hostiles**
