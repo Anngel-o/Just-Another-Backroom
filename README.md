@@ -15,6 +15,8 @@ El objetivo es **explorar, sobrevivir y encontrar la salida**, evitando entidade
 Este proyecto está diseñado como un **juego sencillo pero escalable**, enfocado en aprender sistemas clave de desarrollo de videojuegos.
 
 ---
+Demo: https://anngel-o.itch.io/just-another-backroom
+
 <img width="448" height="248" alt="image" src="https://github.com/user-attachments/assets/59f473ab-2d56-45dc-bb93-00b84da767a6" />
 
 ---
